@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="alibaba.otter.connector.rabbitmq" type="repository">
+    <properties maven-id="com.alibaba.otter:connector.rabbitmq:1.1.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/otter/connector.rabbitmq/1.1.6/connector.rabbitmq-1.1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.0/amqp-client-5.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/mq-amqp/mq-amqp-client/1.0.3/mq-amqp-client-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
